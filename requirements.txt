@@ -1,0 +1,8 @@
+pandas
+Beautifulsoup4
+matplotlib
+seaborn
+numpy
+NLTK
+Spacy
+openpyxl
